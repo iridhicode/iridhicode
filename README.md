@@ -1,7 +1,9 @@
-# Hi, I'm Ridhima 👋
+![iridhicode](https://github.com/iridhicode/iridhicode/assets/52284756/0d79b969-58a1-4a90-8a6b-52367cf37def)
 
-- 💻 Passionate about solving complex problems through code
-- 🚀 Crafting robust backend applications and exploring AI & Cyber Security
+*Hi, I'm Ridhima 👋*
+
+- 💻 I'm passionate about solving complex problems through code.
+- 🚀 I love crafting backend applications and exploring AI & Cyber Security.
 - 📧 Let's connect!
 
-⭐ [iridhicode]([link-to-your-github-profile](https://github.com/iridhicode)
+⭐ [iridhicode](https://github.com/iridhicode)
