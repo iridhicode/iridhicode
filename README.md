@@ -1,4 +1,4 @@
-# Hi, I'm Keshav Malik 👋
+# Hi, I'm Ridhima 👋
 
 - 💻 Passionate about solving complex problems through code
 - 🚀 Crafting robust backend applications and exploring AI & Cyber Security
